@@ -1,7 +1,4 @@
-## {{{ http://code.activestate.com/recipes/577385/ (r3)
-# imageDownloader.py
-# Finds and downloads all images from any given URL.
-# FB - 201009072
+
 import urllib2
 import re,os
 from os.path import basename
